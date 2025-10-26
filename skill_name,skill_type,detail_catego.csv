@@ -1,0 +1,102 @@
+skill_name,skill_type,detail_category
+Python,LANGUAGE,Backend/Data Science
+Java,LANGUAGE,Backend/Enterprise
+JavaScript,LANGUAGE,Frontend/Backend
+SQL,LANGUAGE,Database/Query
+TypeScript,LANGUAGE,Frontend/Modern
+Go,LANGUAGE,Systems/Backend
+C++,LANGUAGE,Systems/High Performance
+C#,LANGUAGE,Microsoft/Backend
+R,LANGUAGE,Statistical Computing
+Shell Scripting,LANGUAGE,Automation/DevOps
+HTML5,LANGUAGE,Web Markup
+CSS3,LANGUAGE,Web Styling
+React,FRAMEWORK,Frontend UI Library
+Angular,FRAMEWORK,Frontend MVC
+Vue.js,FRAMEWORK,Frontend UI Library
+Node.js,FRAMEWORK,Runtime Environment
+Spring Boot,FRAMEWORK,Java Backend Microservices
+Django,FRAMEWORK,Python Web Framework
+Flask,FRAMEWORK,Python Micro-framework
+TensorFlow,FRAMEWORK,Machine Learning Library
+PyTorch,FRAMEWORK,Deep Learning Framework
+Keras,FRAMEWORK,Deep Learning API
+.NET Core,FRAMEWORK,Microsoft Backend
+Express.js,FRAMEWORK,Node.js Web App
+FastAPI,FRAMEWORK,Python API
+Next.js,FRAMEWORK,React Server-Side Rendering
+Terraform,TOOL,Infrastructure as Code (IaC)
+Ansible,TOOL,Configuration Management
+Git,TOOL,Version Control System (VCS)
+Jira,TOOL,Project Management Tool
+Confluence,TOOL,Documentation Tool
+Slack,TOOL,Communication/Collaboration
+Figma,TOOL,Design/Prototyping Tool
+PostgreSQL,TOOL,Relational Database (SQL)
+MySQL,TOOL,Relational Database (SQL)
+MongoDB,TOOL,NoSQL Document Database
+Redis,TOOL,In-Memory Data Store
+Kafka,TOOL,Distributed Streaming Platform
+Prometheus,TOOL,Monitoring/Metrics
+Grafana,TOOL,Visualization/Dashboard
+Selenium,TOOL,Automation Testing
+Junit,TOOL,Unit Testing Framework
+Jenkins,TOOL,CI/CD Server
+CircleCI,TOOL,CI/CD Tool
+AWS,TOOL,Cloud Provider (Amazon Web Services)
+Azure,TOOL,Cloud Provider (Microsoft)
+GCP,TOOL,Cloud Provider (Google)
+Docker,TOOL,Containerization
+Kubernetes,TOOL,Container Orchestration
+Data Analysis,SPECIALTY,Analytical Role
+Machine Learning,SPECIALTY,AI/Statistical Modeling
+Deep Learning,SPECIALTY,Advanced AI
+DevOps,SPECIALTY,Infrastructure & Automation
+Cloud Architecture,SPECIALTY,System Design
+Cybersecurity,SPECIALTY,Security/Defense
+UI/UX Design,SPECIALTY,User Experience & Interface
+Business Analysis,SPECIALTY,Requirements Gathering
+Project Management,SPECIALTY,Project Planning
+Product Management,SPECIALTY,Product Strategy
+Quality Assurance (QA),SPECIALTY,Testing & Quality
+System Administration,SPECIALTY,IT Operations
+Full Stack Development,SPECIALTY,End-to-End Development
+Frontend Development,SPECIALTY,Client-Side Development
+Backend Development,SPECIALTY,Server-Side Development
+Data Engineering,SPECIALTY,Data Pipeline/ETL
+Big Data,SPECIALTY,Large-Scale Data Processing
+Network Engineering,SPECIALTY,Networking/Security
+Algorithms,SPECIALTY,Computer Science Fundamentals
+Data Structures,SPECIALTY,Computer Science Fundamentals
+Agile,SPECIALTY,Development Methodology
+Scrum,SPECIALTY,Agile Framework
+Kanban,SPECIALTY,Agile Framework
+Fintech,DOMAIN,Financial Technology Industry
+E-commerce,DOMAIN,Retail/Online Sales Industry
+Healthcare,DOMAIN,Medical/Health Records Industry
+Education Tech,DOMAIN,EdTech/Learning Systems
+Manufacturing,DOMAIN,Industrial Automation
+Supply Chain,DOMAIN,Logistics/Inventory
+Insurance,DOMAIN,Insurance Sector
+Gaming,DOMAIN,Game Development/Engine
+Government Tech,DOMAIN,Public Sector Solutions
+Real Estate Tech,DOMAIN,PropTech Industry
+A/B Testing,SPECIALTY,Experimental Design
+Microservices,SPECIALTY,Architectural Pattern
+Blockchain,SPECIALTY,Distributed Ledger Technology
+SaaS,DOMAIN,Software as a Service
+CRM,TOOL,Customer Relationship Mgmt System
+ERP,TOOL,Enterprise Resource Planning
+Splunk,TOOL,Log Management/SIEM
+Power BI,TOOL,Business Intelligence
+Tableau,TOOL,Business Intelligence
+Salesforce,TOOL,CRM Platform
+PHP,LANGUAGE,Web Development
+Swift,LANGUAGE,iOS Mobile
+Objective-C,LANGUAGE,iOS Mobile
+Android SDK,FRAMEWORK,Android Development
+Flutter,FRAMEWORK,Cross-Platform Mobile
+Xamarin,FRAMEWORK,Cross-Platform Mobile
+RabbitMQ,TOOL,Message Broker
+Load Balancing,TOOL,Traffic Distribution
+API Design,SPECIALTY,Interface Architecture
