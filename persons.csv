@@ -1,0 +1,101 @@
+personId,personName,position,level,experienceYears,costPerHour,department
+EMP-001,Nguyễn Văn An,Senior Backend Developer,Senior,5.5,58.25,Platform Engineering
+EMP-002,Trần Thị Bình,Frontend Developer,Middle,3.2,42.3,Frontend Team
+EMP-003,Lê Văn Cường,Junior Data Scientist,Junior,1.1,31.65,Data Science
+EMP-004,Phạm Thị Dung,QA Engineer,Middle,2.8,34.2,QA
+EMP-005,Hoàng Văn Nam,Project Manager,Senior,7.0,54.5,Management
+EMP-006,Võ Thị Hà,UI/UX Designer,Middle,3.0,42.0,Frontend Team
+EMP-007,Đặng Hữu Phước,DevOps Engineer,Senior,6.2,60.8,Platform Engineering
+EMP-008,Ngô Thị Mai,Business Analyst,Middle,4.1,39.15,Management
+EMP-009,Trịnh Văn Minh,Senior Data Scientist,Senior,5.8,68.7,Data Science
+EMP-010,Đỗ Thị Lan,Junior QA Engineer,Junior,0.8,21.2,QA
+EMP-011,Bùi Văn Tâm,Software Engineer,Middle,3.5,45.25,Platform Engineering
+EMP-012,Nguyễn Thị Thu,Senior Frontend Developer,Senior,6.0,64.0,Frontend Team
+EMP-013,Lý Văn Hùng,Data Analyst,Junior,1.5,32.25,Data Science
+EMP-014,Trần Văn Lực,QA Lead,Senior,7.2,46.8,QA
+EMP-015,Phan Thị Kim,Scrum Master,Middle,4.5,39.75,Management
+EMP-016,Hoàng Văn Long,Junior Backend Developer,Junior,1.2,26.8,Platform Engineering
+EMP-017,Lê Thị Ngọc,UI Designer,Junior,1.0,26.5,Frontend Team
+EMP-018,Vũ Văn Dũng,Machine Learning Engineer,Middle,3.3,54.95,Data Science
+EMP-019,Đinh Thị Hoa,Automation QA,Middle,3.8,35.7,QA
+EMP-020,Nguyễn Văn Hải,Product Owner,Senior,6.5,53.75,Management
+EMP-021,Phạm Văn Tùng,Backend Developer,Middle,2.9,43.35,Platform Engineering
+EMP-022,Hồ Thị Thảo,Frontend Developer,Junior,1.3,26.95,Frontend Team
+EMP-023,Đoàn Văn Tài,Data Engineer,Middle,3.9,58.85,Data Science
+EMP-024,Nguyễn Thị Tuyết,Manual QA,Junior,1.4,22.1,QA
+EMP-025,Mai Văn Sang,Project Coordinator,Junior,2.0,30.0,Management
+EMP-026,Lương Thị Hằng,Senior Backend Developer,Senior,8.0,67.0,Platform Engineering
+EMP-027,Ngô Văn Quý,React Developer,Middle,3.1,41.65,Frontend Team
+EMP-028,Đào Thị Trang,Data Scientist,Senior,5.0,65.0,Data Science
+EMP-029,Nguyễn Hữu Trí,QA Engineer,Middle,3.6,35.4,QA
+EMP-030,Vũ Thị Thanh,Technical Lead,Senior,7.5,56.25,Management
+EMP-031,Dương Văn Bách,Cloud Engineer,Middle,4.0,46.0,Platform Engineering
+EMP-032,Lê Thị Kim Anh,Frontend Developer,Middle,2.5,41.25,Frontend Team
+EMP-033,Trần Hữu Nghĩa,Data Analyst,Junior,1.8,32.7,Data Science
+EMP-034,Phan Văn Đức,Automation QA,Senior,5.2,42.8,QA
+EMP-035,Nguyễn Thị Mơ,HR Manager,Middle,4.2,39.3,Management
+EMP-036,Phạm Văn Tuấn,Java Developer,Senior,6.8,63.2,Platform Engineering
+EMP-037,Đặng Thị Cúc,VueJS Developer,Middle,2.8,41.7,Frontend Team
+EMP-038,Hoàng Minh Hiếu,Machine Learning Engineer,Senior,5.5,68.25,Data Science
+EMP-039,Lê Văn Việt,QA Lead,Senior,7.8,48.7,QA
+EMP-040,Nguyễn Văn Tốt,Product Manager,Senior,8.0,58.0,Management
+EMP-041,Trần Văn Toàn,DevOps Engineer,Middle,3.7,45.55,Platform Engineering
+EMP-042,Vũ Thị Lan Anh,Frontend Developer,Junior,1.1,26.65,Frontend Team
+EMP-043,Ngô Văn Thịnh,Data Scientist,Middle,3.0,50.0,Data Science
+EMP-044,Đỗ Văn Mạnh,QA Engineer,Junior,1.6,22.4,QA
+EMP-045,Phạm Thị Hương,Business Analyst,Senior,6.1,51.65,Management
+EMP-046,Lê Văn Sỹ,Backend Developer,Senior,7.1,64.15,Platform Engineering
+EMP-047,Nguyễn Thị Hồng,UI/UX Designer,Middle,3.4,42.6,Frontend Team
+EMP-048,Hoàng Văn Thái,Data Engineer,Senior,6.3,70.95,Data Science
+EMP-049,Đinh Văn Nam,Automation QA,Middle,4.0,36.0,QA
+EMP-050,Trần Thị Diệu,Scrum Master,Senior,5.9,50.85,Management
+EMP-051,Nguyễn Văn Bắc,Senior Cloud Engineer,Senior,6.5,62.25,Platform Engineering
+EMP-052,Phan Thị Lành,Frontend Developer,Middle,3.9,43.35,Frontend Team
+EMP-053,Lê Văn Hiệp,Junior Data Scientist,Junior,1.9,32.85,Data Science
+EMP-054,Vũ Văn Hậu,QA Engineer,Middle,3.2,34.8,QA
+EMP-055,Đặng Văn Lâm,Project Manager,Senior,8.5,59.75,Management
+EMP-056,Hoàng Thị Yến,Java Developer,Middle,3.3,44.95,Platform Engineering
+EMP-057,Trần Minh Vương,React Developer,Junior,1.0,26.5,Frontend Team
+EMP-058,Nguyễn Công Phượng,Machine Learning Engineer,Middle,4.0,59.0,Data Science
+EMP-059,Phạm Xuân Mạnh,Manual QA,Junior,1.7,22.55,QA
+EMP-060,Lương Xuân Trường,Product Owner,Middle,4.8,40.2,Management
+EMP-061,Bùi Tiến Dũng,Backend Developer,Senior,5.3,57.95,Platform Engineering
+EMP-062,Đỗ Duy Mạnh,Frontend Developer,Middle,3.7,43.05,Frontend Team
+EMP-063,Nguyễn Quang Hải,Data Analyst,Junior,2.0,33.0,Data Science
+EMP-064,Vũ Văn Thanh,Automation QA,Senior,5.6,43.4,QA
+EMP-065,Nguyễn Tuấn Anh,Business Analyst,Middle,3.5,37.25,Management
+EMP-066,Đoàn Văn Hậu,DevOps Engineer,Middle,4.2,46.3,Platform Engineering
+EMP-067,Nguyễn Văn Toàn,UI Designer,Junior,1.4,27.1,Frontend Team
+EMP-068,Hà Đức Chinh,Data Scientist,Senior,6.0,70.0,Data Science
+EMP-069,Phan Văn Đức,QA Engineer,Middle,3.4,35.1,QA
+EMP-070,Nguyễn Tiến Linh,Scrum Master,Senior,6.3,52.45,Management
+EMP-071,Quế Ngọc Hải,Senior Backend Developer,Senior,7.3,64.95,Platform Engineering
+EMP-072,Nguyễn Thị Bích,UI/UX Designer,Middle,3.8,43.2,Frontend Team
+EMP-073,Lê Văn Đại,Machine Learning Engineer,Middle,3.1,51.65,Data Science
+EMP-074,Trần Văn Kiên,QA Lead,Senior,8.2,49.3,QA
+EMP-075,Hồ Tấn Tài,Project Manager,Senior,9.0,61.5,Management
+EMP-076,Nguyễn Phong Hồng Duy,Java Developer,Middle,4.4,46.6,Platform Engineering
+EMP-077,Phạm Đức Huy,Frontend Developer,Junior,1.6,27.4,Frontend Team
+EMP-078,Phạm Tuấn Hải,Data Engineer,Senior,5.1,65.65,Data Science
+EMP-079,Nguyễn Hoàng Đức,Automation QA,Middle,4.3,36.45,QA
+EMP-080,Nguyễn Thành Chung,Product Manager,Senior,7.7,56.55,Management
+EMP-081,Trần Đình Trọng,Cloud Engineer,Middle,3.6,45.4,Platform Engineering
+EMP-082,Bùi Hoàng Việt Anh,React Developer,Middle,2.9,41.85,Frontend Team
+EMP-083,Nguyễn Văn Quyết,Data Scientist,Senior,6.7,73.05,Data Science
+EMP-084,Đỗ Hùng Dũng,QA Engineer,Middle,4.1,36.15,QA
+EMP-085,Nguyễn Hải Huy,Business Analyst,Senior,6.9,54.35,Management
+EMP-086,Châu Ngọc Quang,Backend Developer,Senior,5.7,58.55,Platform Engineering
+EMP-087,Dụng Quang Nho,UI Designer,Junior,1.5,27.25,Frontend Team
+EMP-088,Lê Phạm Thành Long,Machine Learning Engineer,Middle,3.4,55.1,Data Science
+EMP-089,Nguyễn Văn Vĩ,Manual QA,Junior,1.3,21.95,QA
+EMP-090,Trần Minh Toàn,Scrum Master,Middle,4.9,40.35,Management
+EMP-091,Hồ Thanh Minh,DevOps Engineer,Senior,7.0,64.0,Platform Engineering
+EMP-092,Trương Văn Thái Quý,Frontend Developer,Middle,3.5,42.75,Frontend Team
+EMP-093,Nhâm Mạnh Dũng,Data Analyst,Junior,1.7,32.55,Data Science
+EMP-094,Nguyễn Văn Tùng,Automation QA,Senior,6.1,44.65,QA
+EMP-095,Nguyễn Thanh Bình,Project Coordinator,Junior,2.2,30.3,Management
+EMP-096,Vũ Tấn Tài,Java Developer,Senior,6.4,61.6,Platform Engineering
+EMP-097,Lý Công Hoàng Anh,UI/UX Designer,Middle,3.0,42.0,Frontend Team
+EMP-098,Bùi Vĩ Hào,Data Engineer,Middle,3.8,58.7,Data Science
+EMP-099,Nguyễn Đức Chiến,QA Lead,Senior,7.6,48.4,QA
+EMP-100,Nguyễn Văn Trường,Product Owner,Senior,8.3,59.45,Management

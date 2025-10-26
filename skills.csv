@@ -1,0 +1,101 @@
+skill_name,skill_type,detail category
+Python,LANGUAGE,Ngôn ngữ Lập trình
+Java,LANGUAGE,Ngôn ngữ Lập trình
+C++,LANGUAGE,Ngôn ngữ Lập trình
+C#,LANGUAGE,Ngôn ngữ Lập trình
+SQL,LANGUAGE,Ngôn ngữ Lập trình
+HTML,LANGUAGE,Ngôn ngữ Lập trình
+CSS,LANGUAGE,Ngôn ngữ Lập trình
+JavaScript,LANGUAGE,Ngôn ngữ Lập trình
+TypeScript,LANGUAGE,Ngôn ngữ Lập trình
+Go,LANGUAGE,Ngôn ngữ Lập trình
+Rust,LANGUAGE,Ngôn ngữ Lập trình
+Kotlin,LANGUAGE,Ngôn ngữ Lập trình
+Swift,LANGUAGE,Ngôn ngữ Lập trình
+PHP,LANGUAGE,Ngôn ngữ Lập trình
+Ruby,LANGUAGE,Ngôn ngữ Lập trình
+Scala,LANGUAGE,Ngôn ngữ Lập trình
+R,LANGUAGE,Ngôn ngữ Lập trình
+PowerShell,LANGUAGE,Ngôn ngữ Lập trình
+Shell Script,LANGUAGE,Ngôn ngữ Lập trình
+Dart,LANGUAGE,Ngôn ngữ Lập trình
+React,FRAMEWORK,Công nghệ & Frameworks
+Node.js,FRAMEWORK,Công nghệ & Frameworks
+Spring Boot,FRAMEWORK,Công nghệ & Frameworks
+TensorFlow,FRAMEWORK,Công nghệ & Frameworks
+Django,FRAMEWORK,Công nghệ & Frameworks
+.NET Core,FRAMEWORK,Công nghệ & Frameworks
+Angular,FRAMEWORK,Công nghệ & Frameworks
+Vue.js,FRAMEWORK,Công nghệ & Frameworks
+Flask,FRAMEWORK,Công nghệ & Frameworks
+FastAPI,FRAMEWORK,Công nghệ & Frameworks
+PyTorch,FRAMEWORK,Công nghệ & Frameworks
+Keras,FRAMEWORK,Công nghệ & Frameworks
+Scikit-learn,FRAMEWORK,Công nghệ & Frameworks
+Pandas,FRAMEWORK,Công nghệ & Frameworks
+NumPy,FRAMEWORK,Công nghệ & Frameworks
+Express.js,FRAMEWORK,Công nghệ & Frameworks
+Ruby on Rails,FRAMEWORK,Công nghệ & Frameworks
+Laravel,FRAMEWORK,Công nghệ & Frameworks
+Flutter,FRAMEWORK,Công nghệ & Frameworks
+Next.js,FRAMEWORK,Công nghệ & Frameworks
+Data Analysis,SPECIALTY,Kỹ năng Chuyên ngành
+Machine Learning,SPECIALTY,Kỹ năng Chuyên ngành
+UI/UX Design,SPECIALTY,Kỹ năng Chuyên ngành
+Cloud Architecture,SPECIALTY,Kỹ năng Chuyên ngành
+QA/Testing,SPECIALTY,Kỹ năng Chuyên ngành
+DevOps,SPECIALTY,Kỹ năng Chuyên ngành
+Cyber Security,SPECIALTY,Kỹ năng Chuyên ngành
+Database Administration,SPECIALTY,Kỹ năng Chuyên ngành
+Business Analysis,SPECIALTY,Kỹ năng Chuyên ngành
+Agile/Scrum,SPECIALTY,Kỹ năng Chuyên ngành
+Project Management,SPECIALTY,Kỹ năng Chuyên ngành
+Mobile Development,SPECIALTY,Kỹ năng Chuyên ngành
+Backend Development,SPECIALTY,Kỹ năng Chuyên ngành
+Frontend Development,SPECIALTY,Kỹ năng Chuyên ngành
+Data Engineering,SPECIALTY,Kỹ năng Chuyên ngành
+Natural Language Processing (NLP),SPECIALTY,Kỹ năng Chuyên ngành
+Computer Vision,SPECIALTY,Kỹ năng Chuyên ngành
+Site Reliability Engineering (SRE),SPECIALTY,Kỹ năng Chuyên ngành
+CI/CD,SPECIALTY,Kỹ năng Chuyên ngành
+Microservices,SPECIALTY,Kỹ năng Chuyên ngành
+Git,TOOL,Công cụ & Nền tảng
+Jira,TOOL,Công cụ & Nền tảng
+AWS,TOOL,Công cụ & Nền tảng
+Azure,TOOL,Công cụ & Nền tảng
+Google Cloud Platform (GCP),TOOL,Công cụ & Nền tảng
+Docker,TOOL,Công cụ & Nền tảng
+Kubernetes,TOOL,Công cụ & Nền tảng
+MySQL,TOOL,Công cụ & Nền tảng
+PostgreSQL,TOOL,Công cụ & Nền tảng
+MongoDB,TOOL,Công cụ & Nền tảng
+Figma,TOOL,Công cụ & Nền tảng
+Jenkins,TOOL,Công cụ & Nền tảng
+Terraform,TOOL,Công cụ & Nền tảng
+Ansible,TOOL,Công cụ & Nền tảng
+Selenium,TOOL,Công cụ & Nền tảng
+Apache Kafka,TOOL,Công cụ & Nền tảng
+Apache Spark,TOOL,Công cụ & Nền tảng
+Datadog,TOOL,Công cụ & Nền tảng
+Splunk,TOOL,Công cụ & Nền tảng
+Power BI,TOOL,Công cụ & Nền tảng
+Fintech,DOMAIN,Kiến thức Miền
+E-commerce,DOMAIN,Kiến thức Miền
+Healthcare,DOMAIN,Kiến thức Miền
+Education Tech,DOMAIN,Kiến thức Miền
+Manufacturing,DOMAIN,Kiến thức Miền
+Logistics,DOMAIN,Kiến thức Miền
+Telecommunications,DOMAIN,Kiến thức Miền
+Real Estate,DOMAIN,Kiến thức Miền
+Automotive,DOMAIN,Kiến thức Miền
+Media,DOMAIN,Kiến thức Miền
+Gaming,DOMAIN,Kiến thức Miền
+Energy,DOMAIN,Kiến thức Miền
+Travel,DOMAIN,Kiến thức Miền
+HR Tech,DOMAIN,Kiến thức Miền
+Legal Tech,DOMAIN,Kiến thức Miền
+Insurtech,DOMAIN,Kiến thức Miền
+Food Tech,DOMAIN,Kiến thức Miền
+Marketing Tech (Martech),DOMAIN,Kiến thức Miền
+Agriculture Tech (AgriTech),DOMAIN,Kiến thức Miền
+Retail,DOMAIN,Kiến thức Miền
