@@ -1,0 +1,101 @@
+projectId,projectName,domain,startDate,endDate,status
+PROJ-001,Hệ thống Quản lý SkillGraph,AI,2024-01-15,2025-06-30,In-Progress
+PROJ-002,Nền tảng E-commerce V3,E-commerce,2023-05-10,2024-12-20,Completed
+PROJ-003,Ứng dụng Thanh toán Di động,Fintech,2024-03-01,2025-09-15,In-Progress
+PROJ-004,Phân tích Dữ liệu Y tế,Healthcare,2023-11-20,2024-08-30,Completed
+PROJ-005,Hệ thống Quản lý Học tập (LMS),Education Tech,2024-07-01,2025-12-31,Planning
+PROJ-006,Tối ưu hóa Chuỗi Cung ứng,Manufacturing,2023-02-01,2024-03-10,Completed
+PROJ-007,Cổng Thông tin Ngân hàng Mở,Fintech,2024-09-10,2025-11-20,In-Progress
+PROJ-008,Dự báo Rủi ro Tín dụng (AI),Fintech,2024-05-20,2025-02-28,In-Progress
+PROJ-009,Nâng cấp Hệ thống CRM,E-commerce,2024-02-12,2024-07-10,Completed
+PROJ-010,Bệnh án Điện tử (EMR),Healthcare,2024-08-01,2026-01-30,Planning
+PROJ-011,Nền tảng Dạy học Trực tuyến,Education Tech,2023-09-05,2024-06-15,Completed
+PROJ-012,Quản lý Kho bãi Thông minh,Manufacturing,2024-04-18,2025-03-22,In-Progress
+PROJ-013,Phát hiện Gian lận Giao dịch,Fintech,2024-10-01,2025-07-31,In-Progress
+PROJ-014,Ứng dụng Chăm sóc Sức khỏe Từ xa,Healthcare,2024-06-11,2025-05-10,In-Progress
+PROJ-015,Tối ưu hóa Gợi ý Sản phẩm (AI),E-commerce,2024-01-25,2024-10-30,In-Progress
+PROJ-016,Hệ thống Quản lý Tuyển sinh,Education Tech,2024-11-01,2025-08-15,Planning
+PROJ-017,Robot Tự hành trong Nhà máy,Manufacturing,2023-12-10,2024-11-30,Completed
+PROJ-018,Ví điện tử Doanh nghiệp,Fintech,2024-03-20,2025-01-20,In-Progress
+PROJ-019,Hệ thống Quản lý Bệnh viện,Healthcare,2023-10-15,2024-09-25,Completed
+PROJ-020,Marketplace cho Sản phẩm B2B,E-commerce,2024-07-22,2025-04-18,In-Progress
+PROJ-021,Trợ lý Ảo AI cho Lớp học,Education Tech,2024-05-05,2025-02-10,In-Progress
+PROJ-022,Bảo trì Dự đoán (Predictive Maintenance),Manufacturing,2024-09-15,2025-10-01,Planning
+PROJ-023,Nền tảng Vay ngang hàng (P2P),Fintech,2023-08-14,2024-05-20,Completed
+PROJ-024,Phân tích Hình ảnh Y tế (AI),Healthcare,2024-04-30,2025-03-05,In-Progress
+PROJ-025,Tối ưu hóa Logistics,E-commerce,2024-10-12,2025-06-20,Planning
+PROJ-026,Ứng dụng Khảo thí Trực tuyến,Education Tech,2023-11-01,2024-04-30,Completed
+PROJ-027,Hệ thống Kiểm soát Chất lượng (QC),Manufacturing,2024-06-25,2025-01-15,In-Progress
+PROJ-028,Robo-Advisor (Tư vấn Tài chính Tự động),Fintech,2024-02-28,2024-11-10,In-Progress
+PROJ-029,Nền tảng Telemedicine,Healthcare,2024-08-20,2025-07-25,Planning
+PROJ-030,Cá nhân hóa Trải nghiệm Mua sắm,E-commerce,2023-07-19,2024-02-22,Completed
+PROJ-031,Hệ thống Quản lý Tài sản Số,Fintech,2024-01-10,2024-09-01,Completed
+PROJ-032,Nền tảng Phân tích IoT Công nghiệp,Manufacturing,2024-05-15,2025-04-30,In-Progress
+PROJ-033,Trò chơi Hóa Học Tương tác,Education Tech,2024-09-01,2025-06-10,In-Progress
+PROJ-034,Hệ thống Thông tin Dược phẩm,Healthcare,2023-06-20,2024-01-30,Completed
+PROJ-035,Thanh toán Xuyên biên giới,Fintech,2024-11-10,2025-10-15,Planning
+PROJ-036,Tối ưu hóa Giá Động,E-commerce,2024-03-14,2024-12-01,In-Progress
+PROJ-037,Mô phỏng 3D Dây chuyền Sản xuất,Manufacturing,2024-07-30,2025-05-28,In-Progress
+PROJ-038,Ứng dụng Theo dõi Sức khỏe Cá nhân,Healthcare,2023-12-30,2024-08-10,Completed
+PROJ-039,Nền tảng E-book Tương tác,Education Tech,2024-02-20,2024-11-25,In-Progress
+PROJ-040,Quản lý Rủi ro Bảo hiểm (Insurtech),Fintech,2024-08-10,2025-06-05,In-Progress
+PROJ-041,Chatbot Hỗ trợ Khách hàng (AI),E-commerce,2024-04-05,2024-10-10,Completed
+PROJ-042,Hệ thống Điều hành Sản xuất (MES),Manufacturing,2024-10-20,2025-09-30,Planning
+PROJ-043,Ứng dụng Đặt lịch Khám bệnh,Healthcare,2024-01-05,2024-07-07,Completed
+PROJ-044,Nền tảng Học Ngôn ngữ (AI),Education Tech,2024-06-15,2025-04-20,In-Progress
+PROJ-045,Hệ thống Chấm điểm Tín dụng,Fintech,2023-09-25,2024-05-01,Completed
+PROJ-046,Quản lý Chuỗi cung ứng Lạnh,Manufacturing,2024-11-15,2025-11-01,Planning
+PROJ-047,Tìm kiếm Sản phẩm bằng Hình ảnh,E-commerce,2024-05-25,2025-01-10,In-Progress
+PROJ-048,Phân tích Gene (Genomics),Healthcare,2024-03-30,2025-02-15,In-Progress
+PROJ-049,Hệ thống Quản lý Tài chính Cá nhân,Fintech,2024-07-10,2025-01-01,In-Progress
+PROJ-050,Nền tảng Thực tế Ảo (VR) cho Giáo dục,Education Tech,2024-09-20,2025-08-20,Planning
+PROJ-051,Quản lý Đơn hàng Phân tán,E-commerce,2023-10-30,2024-04-10,Completed
+PROJ-052,Tự động hóa Quy trình Robotics (RPA),Manufacturing,2024-02-14,2024-10-25,Completed
+PROJ-053,Nền tảng Khai thác Dữ liệu Tài chính,Fintech,2024-08-05,2025-07-12,In-Progress
+PROJ-054,Hệ thống Lưu trữ Hình ảnh Y tế (PACS),Healthcare,2024-04-10,2025-03-18,In-Progress
+PROJ-055,Hệ thống Thi cử Trực tuyến,Education Tech,2023-08-22,2024-02-29,Completed
+PROJ-056,Cổng Thanh toán Hợp nhất,E-commerce,2024-01-20,2024-08-01,Completed
+PROJ-057,AI trong Chẩn đoán Bệnh,Healthcare,2024-10-30,2025-09-10,Planning
+PROJ-058,Hệ thống Quản lý An toàn Lao động,Manufacturing,2024-03-05,2024-11-15,In-Progress
+PROJ-059,Nền tảng Đầu tư Chứng khoán,Fintech,2024-06-01,2025-04-01,In-Progress
+PROJ-060,Ứng dụng Học tập Thích ứng (AI),Education Tech,2024-07-15,2025-05-05,In-Progress
+PROJ-061,Phân tích Hành vi Người dùng,E-commerce,2024-09-05,2025-02-20,In-Progress
+PROJ-062,Hệ thống Thông tin Xét nghiệm (LIS),Healthcare,2023-11-25,2024-07-28,Completed
+PROJ-063,Digital Twin (Bản sao Số) Nhà máy,Manufacturing,2024-08-15,2025-08-01,Planning
+PROJ-064,Nền tảng Cho vay Doanh nghiệp SME,Fintech,2024-04-22,2025-01-28,In-Progress
+PROJ-065,Hệ thống Quản lý Thư viện Số,Education Tech,2024-01-30,2024-10-01,Completed
+PROJ-066,Quản lý Quan hệ Khách hàng (CRM) V2,E-commerce,2024-10-05,2025-07-01,In-Progress
+PROJ-067,Ứng dụng Dinh dưỡng và Sức khỏe,Healthcare,2024-05-12,2025-02-01,In-Progress
+PROJ-068,Tối ưu hóa Năng lượng Nhà máy,Manufacturing,2023-09-10,2024-03-20,Completed
+PROJ-069,Xác thực Sinh trắc học (Biometrics),Fintech,2024-11-20,2025-09-18,Planning
+PROJ-070,Nền tảng Đánh giá Kỹ năng,Education Tech,2024-03-18,2024-12-10,In-Progress
+PROJ-071,Phân tích Cảm xúc Khách hàng,E-commerce,2024-07-05,2025-01-31,In-Progress
+PROJ-072,Hệ thống Quản lý Vật tư Y tế,Healthcare,2024-02-10,2024-09-15,Completed
+PROJ-073,Tự động hóa Xe vận chuyển (AGV),Manufacturing,2024-08-25,2025-06-30,In-Progress
+PROJ-074,Hệ thống Quản lý Tuân thủ (AML),Fintech,2023-10-01,2024-04-25,Completed
+PROJ-075,Nền tảng Gia sư Trực tuyến,Education Tech,2024-06-30,2025-03-28,In-Progress
+PROJ-076,Hệ thống Phản hồi Khách hàng,E-commerce,2024-04-15,2024-11-05,Completed
+PROJ-077,Phân tích Dự đoán Bệnh Dịch,Healthcare,2024-09-25,2025-08-10,Planning
+PROJ-078,Quản lý Tài sản Doanh nghiệp (EAM),Manufacturing,2024-01-28,2024-10-22,Completed
+PROJ-079,Nền tảng Giao dịch Tiền điện tử,Fintech,2024-05-30,2025-02-25,In-Progress
+PROJ-080,Hệ thống Thông tin Sinh viên (SIS),Education Tech,2023-12-20,2024-08-18,Completed
+PROJ-081,Tối ưu hóa Tồn kho,E-commerce,2024-08-30,2025-05-15,In-Progress
+PROJ-082,Phát triển Thuốc (AI),Healthcare,2024-10-15,2025-10-01,Planning
+PROJ-083,Hệ thống Quản lý Vận hành (ERP) V2,Manufacturing,2024-07-20,2025-06-12,In-Progress
+PROJ-084,Ứng dụng Quản lý Chi tiêu,Fintech,2024-02-05,2024-09-05,Completed
+PROJ-085,Nền tảng Chứng chỉ Số,Education Tech,2024-09-12,2025-04-10,In-Progress
+PROJ-086,Tối ưu hóa Lộ trình Giao hàng,E-commerce,2024-03-25,2024-12-15,In-Progress
+PROJ-087,Ứng dụng Sức khỏe Tâm thần,Healthcare,2024-06-05,2025-01-05,In-Progress
+PROJ-088,Hệ thống Cảnh báo Lỗi Sản phẩm,Manufacturing,2023-11-12,2024-05-30,Completed
+PROJ-089,Cổng thông tin Bảo hiểm,Fintech,2024-08-18,2025-07-20,Planning
+PROJ-090,Nền tảng Kỹ năng Vi mô (Microlearning),Education Tech,2024-04-01,2024-11-20,In-Progress
+PROJ-091,Hệ thống Đặt hàng Đa kênh,E-commerce,2023-08-30,2024-03-01,Completed
+PROJ-092,Phân tích Thử nghiệm Lâm sàng,Healthcare,2024-07-12,2025-05-22,In-Progress
+PROJ-093,Hệ thống Giám sát Năng suất,Manufacturing,2024-05-01,2025-02-18,In-Progress
+PROJ-094,Nền tảng Quản lý Danh mục Đầu tư,Fintech,2024-01-22,2024-10-18,Completed
+PROJ-095,Công cụ Tác giả Khóa học (Authoring Tool),Education Tech,2024-10-25,2025-08-30,Planning
+PROJ-096,Hệ thống Chống rửa tiền (AML),Fintech,2024-06-20,2025-03-15,In-Progress
+PROJ-097,Thử đồ Ảo (Virtual Try-on),E-commerce,2024-09-18,2025-06-25,In-Progress
+PROJ-098,Ứng dụng Hẹn hò Bác sĩ,Healthcare,2023-10-20,2024-05-10,Completed
+PROJ-099,Hệ thống Hỗ trợ Ra quyết định (DSS),Manufacturing,2024-11-05,2025-09-20,Planning
+PROJ-100,AI trong Tuyển dụng (HR Tech),AI,2024-04-28,2025-01-20,In-Progress
