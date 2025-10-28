@@ -1,0 +1,105 @@
+skill_name_1,skill_name_2,equivalenceScore
+Vue.js,React,0.85
+Angular,React,0.78
+AWS,Azure,0.88
+Google Cloud Platform (GCP),AWS,0.86
+PostgreSQL,MySQL,0.9
+Kubernetes,Docker,0.72
+Keras,TensorFlow,0.89
+PyTorch,TensorFlow,0.9
+Flask,Django,0.81
+FastAPI,Django,0.79
+Laravel,Spring Boot,0.75
+.NET Core,Spring Boot,0.76
+C#,Java,0.71
+Kotlin,Java,0.83
+Ruby,Python,0.68
+Kotlin,Swift,0.8
+Flutter,React,0.73
+Manufacturing,Logistics,0.55
+Fintech,Insurtech,0.7
+Healthcare,Fintech,0.52
+Education Tech,Healthcare,0.51
+E-commerce,Retail,0.75
+Ansible,Terraform,0.77
+Jenkins,Git,0.58 # Jenkins uses Git
+Selenium,QA/Testing,0.65 # Selenium is a QA tool
+Apache Kafka,Microservices,0.6 # Kafka used in microservices
+Apache Spark,Data Engineering,0.72
+Power BI,Data Analysis,0.78
+Jira,Agile/Scrum,0.67 # Jira used in Agile
+Figma,UI/UX Design,0.82
+MongoDB,MySQL,0.62 # NoSQL vs SQL
+Express.js,Node.js,0.9 # Express runs on Node
+Pandas,Data Analysis,0.85
+NumPy,Data Analysis,0.8
+Scikit-learn,Machine Learning,0.88
+Next.js,React,0.84
+Scala,Java,0.74
+PHP,JavaScript,0.59
+HTML,CSS,0.69 # Often used together
+C++,Java,0.65
+Go,Python,0.61
+Rust,C++,0.66
+Dart,JavaScript,0.7
+Shell Script,DevOps,0.7
+PowerShell,DevOps,0.68
+R,Python,0.73 # Both for data science
+Datadog,Splunk,0.79 # Monitoring tools
+Cyber Security,DevOps,0.63 # DevSecOps
+Database Administration,SQL,0.8
+Business Analysis,Project Management,0.7
+Mobile Development,Kotlin,0.81
+Mobile Development,Swift,0.82
+Backend Development,Node.js,0.77
+Backend Development,Java,0.79
+Frontend Development,React,0.83
+Frontend Development,JavaScript,0.86
+Data Engineering,Python,0.76
+NLP,Machine Learning,0.84
+Computer Vision,Machine Learning,0.87
+SRE,DevOps,0.88
+CI/CD,Jenkins,0.8
+CI/CD,DevOps,0.85
+Telecommunications,AWS,0.53
+Real Estate,Fintech,0.57
+Automotive,Manufacturing,0.69
+Media,E-commerce,0.54
+Gaming,C++,0.64
+Energy,Manufacturing,0.6
+Travel,E-commerce,0.61
+HR Tech,Business Analysis,0.58
+Legal Tech,Fintech,0.56
+Food Tech,E-commerce,0.6
+Martech,Data Analysis,0.71
+AgriTech,Manufacturing,0.59
+Retail,E-commerce,0.76
+C#, .NET Core, 0.87
+JavaScript, Node.js, 0.82
+TypeScript, JavaScript, 0.9
+QA/Testing, Selenium, 0.75
+Cloud Architecture, AWS, 0.83
+Cloud Architecture, Azure, 0.81
+Project Management, Jira, 0.7
+Agile/Scrum, Project Management, 0.8
+Microservices, Docker, 0.7
+Microservices, Kubernetes, 0.73
+Data Engineering, SQL, 0.78
+Data Engineering, Apache Spark, 0.81
+Fintech, SQL, 0.65
+E-commerce, Java, 0.68
+Healthcare, Python, 0.67
+Education Tech, JavaScript, 0.69
+Manufacturing, C++, 0.63
+Logistics, Data Analysis, 0.7
+UI/UX Design, CSS, 0.74
+UI/UX Design, JavaScript, 0.72
+Machine Learning, Python, 0.9
+Data Analysis, SQL, 0.86
+DevOps, Docker, 0.8
+DevOps, Kubernetes, 0.82
+DevOps, AWS, 0.79
+Cyber Security, Python, 0.67
+Cyber Security, Networking, 0.7 # Assuming Networking is a skill
+Database Administration, MySQL, 0.84
+Business Analysis, SQL, 0.73
