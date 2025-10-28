@@ -1,0 +1,118 @@
+projectId,skill_name,requiredLevel,priority
+PROJ-001,Java,5,1.0
+PROJ-001,Spring Boot,5,1.0
+PROJ-001,Microservices,3,0.8
+PROJ-001,AWS,3,0.7
+PROJ-002,React,5,1.0
+PROJ-002,JavaScript,5,0.9
+PROJ-002,UI/UX Design,3,0.5
+PROJ-002,Figma,1,0.3
+PROJ-003,Python,5,1.0
+PROJ-003,Fintech,3,0.7
+PROJ-003,SQL,3,0.6
+PROJ-004,Python,5,1.0
+PROJ-004,Machine Learning,5,1.0
+PROJ-004,Healthcare,3,0.8
+PROJ-005,Java,3,0.9
+PROJ-005,Education Tech,1,0.5
+PROJ-006,Python,3,0.8
+PROJ-006,Manufacturing,3,0.7
+PROJ-007,Java,5,1.0
+PROJ-007,Fintech,5,0.9
+PROJ-008,Python,5,1.0
+PROJ-008,Machine Learning,5,1.0
+PROJ-008,Fintech,3,0.6
+PROJ-009,React,3,0.8
+PROJ-009,E-commerce,3,0.7
+PROJ-010,Java,5,1.0
+PROJ-010,Healthcare,3,0.8
+PROJ-011,JavaScript,3,0.9
+PROJ-011,Education Tech,3,0.7
+PROJ-012,Python,3,0.8
+PROJ-012,Manufacturing,3,0.7
+PROJ-012,Docker,1,0.5
+PROJ-013,Python,5,1.0
+PROJ-013,Machine Learning,5,0.9
+PROJ-013,Fintech,3,0.6
+PROJ-014,Java,3,0.8
+PROJ-014,Healthcare,3,0.7
+PROJ-014,Kotlin,1,0.5
+PROJ-015,Python,5,1.0
+PROJ-015,Machine Learning,5,1.0
+PROJ-015,E-commerce,3,0.7
+PROJ-016,SQL,3,0.8
+PROJ-016,Education Tech,3,0.6
+PROJ-017,C++,5,1.0
+PROJ-017,Manufacturing,3,0.7
+PROJ-017,Computer Vision,3,0.6
+PROJ-018,Java,5,1.0
+PROJ-018,Fintech,3,0.7
+PROJ-018,Microservices,3,0.6
+PROJ-019,SQL,5,1.0
+PROJ-019,Database Administration,3,0.8
+PROJ-019,Healthcare,3,0.7
+PROJ-020,Node.js,5,1.0
+PROJ-020,E-commerce,3,0.8
+PROJ-020,MongoDB,3,0.6
+PROJ-021,Python,5,1.0
+PROJ-021,NLP,5,1.0
+PROJ-021,Education Tech,3,0.7
+PROJ-022,Python,3,0.8
+PROJ-022,Machine Learning,3,0.7
+PROJ-022,Manufacturing,3,0.6
+PROJ-023,Java,5,1.0
+PROJ-023,Fintech,3,0.7
+PROJ-024,Python,5,1.0
+PROJ-024,Computer Vision,5,1.0
+PROJ-024,Healthcare,3,0.8
+PROJ-025,Python,3,0.8
+PROJ-025,Data Analysis,3,0.7
+PROJ-025,E-commerce,3,0.6
+PROJ-026,JavaScript,3,0.9
+PROJ-026,Education Tech,3,0.7
+PROJ-027,Java,3,0.8
+PROJ-027,QA/Testing,3,0.7
+PROJ-027,Manufacturing,3,0.6
+PROJ-028,Python,5,1.0
+PROJ-028,Machine Learning,5,0.9
+PROJ-028,Fintech,3,0.7
+PROJ-029,Java,5,1.0
+PROJ-029,Kotlin,3,0.8
+PROJ-029,Healthcare,3,0.7
+PROJ-030,React,3,0.9
+PROJ-030,E-commerce,3,0.7
+PROJ-031,Java,5,1.0
+PROJ-031,Cyber Security,3,0.8
+PROJ-031,Fintech,3,0.7
+PROJ-032,Python,5,1.0
+PROJ-032,Data Engineering,3,0.8
+PROJ-032,Manufacturing,3,0.7
+PROJ-033,JavaScript,3,0.9
+PROJ-033,Unity,3,0.8
+PROJ-033,Education Tech,3,0.6
+PROJ-034,SQL,5,1.0
+PROJ-034,Database Administration,3,0.8
+PROJ-034,Healthcare,3,0.7
+PROJ-035,Java,5,1.0
+PROJ-035,Microservices,3,0.8
+PROJ-035,Fintech,3,0.7
+PROJ-036,Python,5,1.0
+PROJ-036,Machine Learning,3,0.8
+PROJ-036,E-commerce,3,0.7
+PROJ-037,C++,5,1.0
+PROJ-037,Manufacturing,3,0.8
+PROJ-038,Java,3,0.8
+PROJ-038,Kotlin,3,0.7
+PROJ-038,Healthcare,3,0.6
+PROJ-039,JavaScript,3,0.9
+PROJ-039,React,3,0.8
+PROJ-039,Education Tech,3,0.7
+PROJ-040,Python,5,1.0
+PROJ-040,Data Analysis,3,0.8
+PROJ-040,Fintech,3,0.7
+PROJ-041,Python,3,0.9
+PROJ-041,NLP,3,0.8
+PROJ-041,E-commerce,3,0.7
+PROJ-042,Java,5,1.0
+PROJ-042,SQL,3,0.8
+PROJ-042,Manufacturing,3,0.7
